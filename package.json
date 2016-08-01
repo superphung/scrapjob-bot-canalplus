@@ -1,6 +1,6 @@
 {
   "name": "bot-canalplus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple bot that scrap Canal+ job board periodically.",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,10 @@
     "type": "github",
     "url": "https://github.com/ScrapThemAll/scrapjob-bot-canalplus"
   },
-  "keywords": ["bot", "canalplus"],
+  "keywords": [
+    "bot",
+    "canalplus"
+  ],
   "author": "",
   "license": "GPL-3.0",
   "dependencies": {
